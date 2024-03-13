@@ -1,0 +1,11 @@
+pages/WalletsPage.class
+utils/AppiumUtils.class
+pages/SetupPasscodePage.class
+pages/HomePage.class
+pages/BasePage.class
+pages/SendPage.class
+pages/SettingsPage.class
+pages/BackUpPage.class
+pages/GetStartedPage.class
+utils/DriverUtils.class
+utils/MyLogger.class

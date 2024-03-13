@@ -1,0 +1,6 @@
+{
+  "passcode": "123456",
+  "confirmPasscode": "123456",
+  "incorrectPasscode": "654321",
+  "searchKeyword": "BTC"
+}
